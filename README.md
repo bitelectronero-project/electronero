@@ -11,6 +11,7 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 
 Build from Master Branch or use compiled releases.
 
+
 ## Development resources
 
 - Web: [getmonero.org](https://getmonero.org)
